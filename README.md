@@ -13,12 +13,7 @@ I'm a Software Engineering graduate focused on low-level systems and virtual mac
 
 * Brainfuck interpreter
 * Chip-8 emulator
-* RISC-V RV32I emulator (WIP)
-
-## ⏭️ Next
-
-* Basic WebAssembly interpreter
-* Experimental programming languages (design phase)
+* RISC-V RV32IMA emulator running Linux
 
 ## 🧠 Interests
 
